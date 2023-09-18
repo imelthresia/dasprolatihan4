@@ -1,0 +1,38 @@
+Resume materi hari ini
+
+Algoritma = Hitung_Luas_Keliling_PersegiPanjang
+
+Deklarasi: panjang, lebar, luas, keliling (int)
+
+Deskripsi:
+
+input panjang - read panjang
+input lebar - read lebar
+Luas = panjang * lebar
+Keliling = 2 * (panjang + lebar)
+print luas
+print keliling
+====================================================== Algoritma = Hitung_Luas_Keliling_Segitiga
+
+Deklarasi: sisi, alas, tinggi, luas, keliling (int)
+
+Deskripsi:
+
+Input sisi (untuk mencari keliling) - read sisi
+Input alas - read alas
+Input tinggi - read tinggi
+Luas = alas * tinggi / 2
+Keliling = sisi + sisi + sisi
+print Luas
+Print Keliling
+===================================================== Algoritma = Hitung_Luas_Keliling_Lingkaran
+
+Deklarasi: phi(3.14), r, luas, keliling (double)
+
+Deskripsi:
+
+read phi
+Input jariJari - read jariJari
+Luas = phi * jariJari * jariJari
+Keliling = 2 * phi * jariJari
+Print Luas 6. Print Keliling
